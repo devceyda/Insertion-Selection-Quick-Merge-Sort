@@ -1,0 +1,10 @@
+Alice, 123456, 2
+Bob, 654321, 1
+Charlie, 987654, 1
+David, 234567, 3
+Emma, 345678, 2
+Frank, 876543, 3
+Grace, 567890, 1
+Henry, 456789, 2
+Isabelle, 789012, 3
+John, 890123, 1
